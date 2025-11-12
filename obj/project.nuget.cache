@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "NQ6q9fgLXQc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wicho\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\microsoft.azure.cognitiveservices.vision.computervision.7.0.1.nupkg.sha512",
+    "C:\\Users\\wicho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wicho\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.20\\microsoft.rest.clientruntime.2.3.20.nupkg.sha512",
+    "C:\\Users\\wicho\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\microsoft.rest.clientruntime.azure.3.3.18.nupkg.sha512",
+    "C:\\Users\\wicho\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\wicho\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.Rest.ClientRuntime\" 2.3.20 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-whph-446h-6m9v",
+      "projectPath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
+      "libraryId": "Microsoft.Rest.ClientRuntime",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Newtonsoft.Json\" 10.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

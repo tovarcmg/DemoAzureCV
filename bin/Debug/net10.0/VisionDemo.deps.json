@@ -1,0 +1,98 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VisionDemo/1.0.0": {
+        "dependencies": {
+          "Microsoft.Azure.CognitiveServices.Vision.ComputerVision": "7.0.1"
+        },
+        "runtime": {
+          "VisionDemo.dll": {}
+        }
+      },
+      "Microsoft.Azure.CognitiveServices.Vision.ComputerVision/7.0.1": {
+        "dependencies": {
+          "Microsoft.Rest.ClientRuntime": "2.3.20",
+          "Microsoft.Rest.ClientRuntime.Azure": "3.3.18",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll": {
+            "assemblyVersion": "7.0.1.0",
+            "fileVersion": "7.0.121.56002"
+          }
+        }
+      },
+      "Microsoft.Rest.ClientRuntime/2.3.20": {
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.20.0"
+          }
+        }
+      },
+      "Microsoft.Rest.ClientRuntime.Azure/3.3.18": {
+        "dependencies": {
+          "Microsoft.Rest.ClientRuntime": "2.3.20",
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.3.18.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/10.0.3": {
+        "runtime": {
+          "lib/netstandard1.3/Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.3.21018"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisionDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Azure.CognitiveServices.Vision.ComputerVision/7.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KbyyhYy+uGoHVqPSsKMvqLc68juir5USFBVEDPgr0O9pBmxxp1Eau238+mIjHfn/4D6nGmRy7R+GxkxTZxdiYw==",
+      "path": "microsoft.azure.cognitiveservices.vision.computervision/7.0.1",
+      "hashPath": "microsoft.azure.cognitiveservices.vision.computervision.7.0.1.nupkg.sha512"
+    },
+    "Microsoft.Rest.ClientRuntime/2.3.20": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bw/H1nO4JdnhTagPHWIFQwtlQ6rb2jqw5RTrqPsPqzrjhJxc7P6MyNGdf4pgHQdzdpBSNOfZTEQifoUkxmzYXQ==",
+      "path": "microsoft.rest.clientruntime/2.3.20",
+      "hashPath": "microsoft.rest.clientruntime.2.3.20.nupkg.sha512"
+    },
+    "Microsoft.Rest.ClientRuntime.Azure/3.3.18": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pCtem10PRQYvzRiwJVInsccsqB0NrTjW83NF3zWk1LpN3IS0AneZKq89RyogDT7mRMT1Li/mLY8N8kU6RAiK0g==",
+      "path": "microsoft.rest.clientruntime.azure/3.3.18",
+      "hashPath": "microsoft.rest.clientruntime.azure.3.3.18.nupkg.sha512"
+    },
+    "Newtonsoft.Json/10.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "path": "newtonsoft.json/10.0.3",
+      "hashPath": "newtonsoft.json.10.0.3.nupkg.sha512"
+    }
+  }
+}
