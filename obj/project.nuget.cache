@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NQ6q9fgLXQc=",
+  "dgSpecHash": "SRjvzgVmtiw=",
   "success": true,
   "projectFilePath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "El paquete \"Microsoft.Rest.ClientRuntime\" 2.3.20 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-whph-446h-6m9v",
+      "message": "Package 'Microsoft.Rest.ClientRuntime' 2.3.20 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-whph-446h-6m9v",
       "projectPath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
@@ -27,7 +27,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "El paquete \"Newtonsoft.Json\" 10.0.3 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "message": "Package 'Newtonsoft.Json' 10.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
       "projectPath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",
       "warningLevel": 1,
       "filePath": "C:\\Users\\wicho\\VisionDemo\\VisionDemo.csproj",

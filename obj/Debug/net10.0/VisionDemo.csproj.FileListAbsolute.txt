@@ -18,3 +18,4 @@ C:\Users\wicho\VisionDemo\bin\Debug\net10.0\Microsoft.Rest.ClientRuntime.dll
 C:\Users\wicho\VisionDemo\bin\Debug\net10.0\Microsoft.Rest.ClientRuntime.Azure.dll
 C:\Users\wicho\VisionDemo\bin\Debug\net10.0\Newtonsoft.Json.dll
 C:\Users\wicho\VisionDemo\obj\Debug\net10.0\VisionDemo.csproj.Up2Date
+C:\Users\wicho\VisionDemo\obj\Debug\net10.0\VisionDemo.sourcelink.json
